@@ -1,0 +1,2 @@
+# DataSzimes
+Core Java Project 
